@@ -1,4 +1,4 @@
-#This is a sample R Script for exercise in Git
+ #This is a sample R Script for exercise in Git
 
 #Load documentation from R's pre-loaded dataset
 #Documentation appears in the help pane on RStudio
